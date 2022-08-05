@@ -67,6 +67,10 @@ body {
     cursor: pointer;
     background-color: rgb(104, 112, 118);
 }
+.action-btn-cont>div:hover{
+    cursor: pointer;
+    background-color: rgb(145, 146, 146);
+}
 
 #color1 {
     background-color: lightpink;
